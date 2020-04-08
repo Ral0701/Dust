@@ -1,0 +1,39 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "config"
+		},
+		{
+			"path": "scripts"
+		},
+		{
+			"path": "resources"
+		},
+	],
+	"settings": {
+		"files.exclude": {
+			"**/.zsrc": true,
+			".mixin.out": true,
+			"assets": true,
+			"astralsorcery": true,
+			"crash-reports": true,
+			"journeymap": true,
+			"libraries": true,
+			"local": true,
+			"logs": true,
+			"mods": true,
+			"patchouli_books": true,
+			"resourcepacks": true,
+			"saves": true,
+			"shaderpacks": true,
+			"versions": true,
+			"*.dat": true,
+			"*.log": true,
+			"*.txt": true,
+			"*.json": true,
+		}
+	}
+}

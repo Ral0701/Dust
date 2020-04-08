@@ -1,0 +1,166 @@
+{
+  "meizuan":{
+      "type":"cone",
+      "ore":[
+       {
+          "ore":"<minecraft:coal_ore>",
+          "weight":5
+       },
+       {
+          "ore":"<minecraft:diamond_ore>",
+          "weight":2
+       }
+      ],
+      "stone":"minecraft:stone",
+      "rarity":50,
+      "min_y":10,
+      "max_y":60,
+      "density":200,
+      "vertical_siza":10,
+      "horizontal_siza":10,
+      "max_depth" : 50
+  
+  },
+
+  "tiejinniebo":{
+    "type":"cone",
+    "ore":[
+     {
+        "ore":"<minecraft:lapis_ore>",
+        "weight":2
+     },
+     {
+        "ore":"<minecraft:emerald_ore>",
+        "weight":2
+     }
+    ],
+    "stone":"minecraft:stone",
+    "rarity":30,
+    "min_y":10,
+    "max_y":60,
+    "density":200,
+    "vertical_siza":10,
+    "horizontal_siza":10,
+    "max_depth" : 50
+
+},
+
+"xiyinqian":{
+  "type":"cone",
+  "ore":[
+   {
+      "ore":"<thermalfoundation:ore:1>",
+      "weight":4
+   },
+   {
+      "ore":"<thermalfoundation:ore:2>",
+      "weight":2
+   },
+   {
+      "ore":"<thermalfoundation:ore:3>",
+      "weight":3
+   }
+  ],
+  "stone":"minecraft:stone",
+  "rarity":20,
+  "min_y":10,
+  "max_y":60,
+  "density":200,
+  "vertical_siza":10,
+  "horizontal_siza":10,
+  "max_depth" : 50
+
+},
+
+"qinglv":{
+  "type":"cone",
+  "ore":[
+   {
+      "ore":"<minecraft:iron_ore>",
+      "weight":4
+   },
+   {
+      "ore":"<minecraft:gold_ore>",
+      "weight":1
+   },
+   {
+      "ore":"<thermalfoundation:ore:5>",
+      "weight":1
+   },
+   {
+      "ore":"<thermalfoundation:ore:6>",
+      "weight":1
+   }
+   ],
+  "stone":"minecraft:stone",
+  "rarity":70,
+  "min_y":30,
+  "max_y":50,
+  "density":200,
+  "vertical_siza":10,
+  "horizontal_siza":10,
+  "max_depth" : 50
+
+  },
+  "lvyi":{
+    "type":"cone",
+    "ore":[
+     {
+        "ore":"<thermalfoundation:ore:4>",
+        "weight":5
+     },
+     {
+        "ore":"<thermalfoundation:ore:7>",
+        "weight":2
+     }
+    ],
+    "stone":"minecraft:stone",
+    "rarity":50,
+    "min_y":10,
+    "max_y":60,
+    "density":200,
+    "vertical_siza":10,
+    "horizontal_siza":10,
+    "max_depth" : 50
+
+  },
+  "saishi":{
+    "type":"cone",
+    "ore":[
+     {
+        "ore":"<appliedenergistics2:quartz_ore>",
+        "weight":5
+     },
+     {
+        "ore":"<minecraft:quartz_ore>",
+        "weight":2
+     }
+    ],
+    "stone":"minecraft:stone",
+    "rarity":30,
+    "min_y":10,
+    "max_y":60,
+    "density":200,
+    "vertical_siza":10,
+    "horizontal_siza":10,
+    "max_depth" : 50
+
+  },
+  "honghun":{
+    "type":"cone",
+    "ore":[
+     {
+        "ore":"<minecraft:redstone_ore>",
+        "weight":3
+     }
+    ],
+    "stone":"minecraft:stone",
+    "rarity":20,
+    "min_y":10,
+    "max_y":60,
+    "density":200,
+    "vertical_siza":10,
+    "horizontal_siza":10,
+    "max_depth" : 50
+  }
+}

@@ -1,0 +1,17 @@
+/*
+!.gitignore
+!Dust.code-workspace
+!*.log
+!*.md
+
+!scripts/
+!scripts/*
+
+!resources/
+!resources/*
+
+!config/
+config/*
+
+!config/modularmachinery/
+!config/oreveins
