@@ -2,16 +2,7 @@
 	"folders": [
 		{
 			"path": "."
-		},
-		{
-			"path": "config"
-		},
-		{
-			"path": "scripts"
-		},
-		{
-			"path": "resources"
-		},
+		}
 	],
 	"settings": {
 		"files.exclude": {
