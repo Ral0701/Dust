@@ -22,7 +22,7 @@
 			"shaderpacks": true,
 			"versions": true,
 			"*.dat": true,
-			"*.log": true,
+			"*.log": false,
 			"*.txt": true,
 			"*.json": true,
 		}

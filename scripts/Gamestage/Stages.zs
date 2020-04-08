@@ -1,5 +1,5 @@
 import mods.zenstages.ZenStager;
-import mods.zenstages.ZenStager;
+import mods.zenstages.Stage;
 
 static StageOne = ZenStager.getStage("one");
 static StageTwo = ZenStager.getStage("two");

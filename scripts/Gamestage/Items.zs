@@ -30,7 +30,7 @@ val stage_RecipesID as string[][string] = {
 
 for stage , IDs in stage_RecipesID{
 	for ID in IDs{
-		setRecipeStageByID(stage , ID);
+		stageUtil.setRecipeStageByID(stage , ID);
 	}
 }
 
@@ -48,6 +48,6 @@ val stage_RecipesOutput as IIngredient[][string] = {
 
 for stage , outputs in stage_RecipesOutput{
 	for output in outputs{
-		setRecipeStageByItem(stage , output);
+		stageUtil.setRecipeStageByItem(stage , output);
 	}
 }

@@ -34,6 +34,6 @@ val stageModMap as string[][string] = {
 
 for stage , mods in stageModMap{
 	for mod in mods{
-		stageTheMod(stage , mod);
+		stageUtil.stageTheMod(stage , mod);
 	}
 }
