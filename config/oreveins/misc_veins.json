@@ -1,24 +1,23 @@
 {
-"magnite":{
-    "type":"cone",
-    "ore":[
-     {
-        "block":"<contenttweaker:buried_wood>",
-        "weight":1
-     },
-     {
-        "block":"<contenttweaker:moist_dust>",
-        "weight":1
-     }
-    ],
-    "stone":"minecraft:stone",
-    "rarity":60,
-    "min_y":10,
-    "max_y":60,
-    "density":200,
-    "vertical_siza":10,
-    "horizontal_siza":10,
-    "max_depth" : 50
-
-}
+   "magnite":{
+      "type":"cone",
+      "ore":[
+         {
+           "block":"<contenttweaker:buried_wood>",
+           "weight":1
+         },
+         {
+           "block":"<contenttweaker:moist_dust>",
+           "weight":1
+         }
+      ],
+      "stone":"minecraft:stone",
+      "rarity":60,
+      "min_y":10,
+      "max_y":60,
+      "density":200,
+      "vertical_siza":10,
+      "horizontal_siza":10,
+      "max_depth" : 50
+   }
 }

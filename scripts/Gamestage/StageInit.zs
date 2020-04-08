@@ -1,4 +1,3 @@
-
 import mods.zenstages.ZenStager;
 
 var StageOne = ZenStager.initStage("one");
