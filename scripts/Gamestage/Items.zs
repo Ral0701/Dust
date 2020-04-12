@@ -13,7 +13,8 @@ val allStages as string[] = [
 	"five",
 	"six",
 	"alpha",
-	"beta"
+	"beta",
+	"delete"
 
 ];
 
@@ -40,9 +41,14 @@ val stage_RecipesOutput as IIngredient[][string] = {
 		<immersiveengineering:stone_decoration:10>,
 		<immersiveengineering:stone_decoration:1>,
 		<immersiveengineering:stone_decoration>,
+		<extendedcrafting:handheld_table>
 	],
 	"two" : [
 		<ironchest:wood_iron_chest_upgrade>
+	],
+	"delete" : [
+		<minecraft:potion>.withTag({Potion: "minecraft:water"}),
+		<ore:logWood>
 	]
 };
 

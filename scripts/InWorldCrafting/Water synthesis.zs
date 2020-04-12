@@ -18,7 +18,7 @@ FluidToItem.transform(<minecraft:gravel>,
 //水瓶
 FluidToItem.transform(<toughasnails:purified_water_bottle>,
 <liquid:water>,
-[<contenttweaker:polymer_water>,<minecraft:snow_layer>,<minecraft:glass_bottle>],true);
+[<contenttweaker:polymer_water>,<toughasnails:ice_cube>,<minecraft:glass_bottle>],true);
 //浑浊玻璃-玻璃粉
 FluidToItem.transform(<contenttweaker:glass_dust>,
 <liquid:water>,

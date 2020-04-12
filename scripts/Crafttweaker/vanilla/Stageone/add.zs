@@ -1,4 +1,4 @@
-#priority 999
+#priority 500
 
 recipes.addShaped(<botania:lexicon>, [[<contenttweaker:polymer_water>, <contenttweaker:flint_work_core>, <contenttweaker:polymer_water>],
 [<contenttweaker:wooden_work_core>, <contenttweaker:workbench_core>, <contenttweaker:wooden_work_core>], 
@@ -134,13 +134,27 @@ recipes.addShaped(<extendedcrafting:table_advanced>,
 [[<extendedcrafting:storage>, <minecraft:gold_block>, <extendedcrafting:storage>],
 [<extendedcrafting:material:2>, <extendedcrafting:table_basic>, <extendedcrafting:material:2>], 
 [<extendedcrafting:material:2>, <minecraft:crafting_table>, <extendedcrafting:material:2>]]);
-//魔源合金
-recipes.addShapeless(<contenttweaker:magic_source_alloy>, [
-    [<immersiveengineering:metal:8>,<contenttweaker:filled_terra_bar>]
-]);
 //充盈泰拉
-recipes.addShapeless(<contenttweaker:filled_terra_bar>, [
-    [<botania:manaresource:4>,<silentgems:craftingmaterial:1>]
-]);
-
-
+recipes.addShapeless(<contenttweaker:filled_terra_bar>, 
+[<botania:manaresource:4>,<silentgems:craftingmaterial:1>]
+);
+//鞣制皮革
+gigaherz.survivalist.Dryable.addRecipe(<improvedbackpacks:tanned_leather>,//输出
+<improvedbackpacks:bound_leather>,//输入
+10);//时间
+//聚合砂砾
+recipes.addShaped(<contenttweaker:polymeric_gravel>, 
+[[<minecraft:gravel>, <minecraft:gravel>, <minecraft:gravel>],
+[<minecraft:gravel>, <minecraft:gravel>, <minecraft:gravel>], 
+[<minecraft:gravel>, <minecraft:gravel>, <minecraft:gravel>]]);
+//手持工作台
+recipes.addShapeless(<extendedcrafting:handheld_table>, 
+[<ore:logWood>,<ore:logWood>,<ore:logWood>,<ore:logWood>]);
+//圆石
+recipes.addShaped(<minecraft:cobblestone>, 
+[[<contenttweaker:pebble>, <contenttweaker:pebble>, <contenttweaker:pebble>],
+[<contenttweaker:pebble>, <contenttweaker:pebble>, <contenttweaker:pebble>], 
+[<contenttweaker:pebble>, <contenttweaker:pebble>, <contenttweaker:pebble>]]);
+//魔法起源之土
+recipes.addShapeless(<contenttweaker:earth_magic_origin>, 
+[<contenttweaker:dusty_soil>]);

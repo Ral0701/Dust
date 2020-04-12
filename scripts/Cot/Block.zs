@@ -5,7 +5,7 @@ import mods.contenttweaker.Block;
 
 //灰尘土
 var HCT as Block = VanillaFactory.createBlock("dusty_soil",<blockmaterial:ground>);
-HCT.lightOpacity = 0;  #不透明度（0-255）
+HCT.lightOpacity = 255;  #不透明度（0-255）
 HCT.lightValue = 0;  #光照等级
 HCT.blockHardness = 1;   #方块硬度
 HCT.blockResistance = 1; #方块防爆等级
@@ -17,7 +17,7 @@ HCT.register();
 
 //灰尘堆
 var HCD as Block = VanillaFactory.createBlock("dust_pile",<blockmaterial:ground>);
-HCD.lightOpacity = 0;  #不透明度（0-255）
+HCD.lightOpacity = 255;  #不透明度（0-255）
 HCD.lightValue = 0;  #光照等级
 HCD.blockHardness = 1.5;   #方块硬度
 HCD.blockResistance = 1; #方块防爆等级
@@ -27,12 +27,27 @@ HCD.blockSoundType = <soundtype:ground>;  #方块破坏声音
 HCD.slipperiness = 0.7;  #方块滑度
 HCD.register();
 
+//灰岩
+var HY as Block = VanillaFactory.createBlock("limestone",<blockmaterial:rock>);
+HY.lightOpacity = 255;  #不透明度（0-255）
+HY.lightValue = 0;  #光照等级
+HY.blockHardness = 1;   #方块硬度
+HY.blockResistance = 1; #方块防爆等级
+HY.toolClass = "pickaxe";   #挖掘工具
+HY.toolLevel = 1;      #挖掘等级-1到3
+HY.blockSoundType = <soundtype:stone>;  #方块破坏声音
+HY.slipperiness = 0.7;  #方块滑度
+HY.dropHandler = function(drops,world,position,state,fortune){
+      drops.clear();
+      drops.add(<item:contenttweaker:pebble> *2 %50);
+};
+HY.register();
 
-  //聚合砂砾
+//聚合砂砾
   var JHSL as Block = VanillaFactory.createBlock("polymeric_gravel",<blockmaterial:ground>);
 JHSL.lightOpacity = 0;  #不透明度（0-255）
 JHSL.lightValue = 0;  #光照等级
-JHSL.blockHardness = 1.5;   #方块硬度
+JHSL.blockHardness = 2;   #方块硬度
 JHSL.blockResistance = 1; #方块防爆等级
 JHSL.toolClass = "shovel";   #挖掘工具
 JHSL.toolLevel = 1;      #挖掘等级-1到3
@@ -84,4 +99,7 @@ SRDHCT.toolLevel = -1;      #挖掘等级-1到3
 SRDHCT.blockSoundType = <soundtype:ground>;  #方块破坏声音
 SRDHCT.slipperiness = 0.7;  #方块滑度
 SRDHCT.register();
+
+
+
 

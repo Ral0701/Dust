@@ -38,13 +38,7 @@ recipes.remove(<minecraft:gravel>);
 recipes.remove(<minecraft:glass>);
 //移除线
 recipes.remove(<minecraft:string>);
-//移除晾干架 输出为腐肉、肉干
-gigaherz.survivalist.Dryable.removeRecipe(<minecraft:rotten_flesh>);//Dryable（晾干架/（砧板 前输入后输出
-gigaherz.survivalist.Dryable.removeRecipe(<survivalist:jerky>);
-//移除砧板 输出为木板 线 木棍
-gigaherz.survivalist.Choppable.removeRecipe(<minecraft:stick>);
-gigaherz.survivalist.Choppable.removeRecipe(<minecraft:string>);
-gigaherz.survivalist.Choppable.removeRecipe(<ore:plankWood>);
+
 //化肥配方
 recipes.removeShaped(<botania:fertilizer>*2);
 //花药台配方
@@ -64,4 +58,9 @@ recipes.remove(<extendedcrafting:material:2>);
 recipes.remove(<toughasnails:purified_water_bottle>);
 //精灵门核心
 recipes.remove(<botania:alfheimportal>);
-
+//移除充盈混沌源质
+recipes.remove(<silentgems:craftingmaterial:1>);
+//移除砧板
+recipes.remove(<survivalist:chopping_block>);
+//手持工作台
+recipes.remove(<extendedcrafting:handheld_table>);
