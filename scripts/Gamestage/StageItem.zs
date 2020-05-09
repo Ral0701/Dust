@@ -1,5 +1,5 @@
-#priority 100
-
+#priority 20000
+#loader contenttweaker
 //导包
     import mods.contenttweaker.VanillaFactory;
     import mods.contenttweaker.Item;

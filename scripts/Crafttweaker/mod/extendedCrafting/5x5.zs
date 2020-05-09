@@ -11,4 +11,13 @@ TableCrafting.addShaped(<botania:alfheimportal>,[
 [<botania:livingwood>,<contenttweaker:magic_source_alloy>,<botania:livingwood:4>,<contenttweaker:magic_source_alloy>,<botania:livingwood>]
 ]);
 
+//供桌
+TableCrafting.addShaped(<naturesaura:offering_table>, [
+[<botania:elfglass>,<contenttweaker:magic_source_alloy>,<contenttweaker:magic_source_alloy>,<contenttweaker:magic_source_alloy>,<botania:elfglass>],
+[<botania:elfglass>,<botania:elfglass>,<silentgems:miscblock:1>,<botania:elfglass>,<botania:elfglass>],
+[null,<botania:elfglass>,<silentgems:craftingmaterial:1>,<botania:elfglass>,null],
+[null,<botania:elfglass>,<botania:elfglass>,<botania:elfglass>,null],
+[<botania:storage:1>,<botania:storage:1>,<botania:storage:1>,<botania:storage:1>,<botania:storage:1>]
+]);
+
 

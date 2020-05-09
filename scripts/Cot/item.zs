@@ -30,7 +30,9 @@ val items as string[] = [
 "seed_life",
 "magic_source_alloy",
 "filled_terra_bar",
-"pebble"
+"pebble",
+"original_petals",
+"smelting_core"
  ];
  
  //物品注册

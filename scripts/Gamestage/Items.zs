@@ -41,14 +41,31 @@ val stage_RecipesOutput as IIngredient[][string] = {
 		<immersiveengineering:stone_decoration:10>,
 		<immersiveengineering:stone_decoration:1>,
 		<immersiveengineering:stone_decoration>,
-		<extendedcrafting:handheld_table>
+		<extendedcrafting:handheld_table>,
+		<immersiveengineering:stone_decoration:1>,
+		<immersiveengineering:tool>,
+		<extendedcrafting:table_basic>,
+		<extendedcrafting:table_advanced>,
+		<extendedcrafting:storage>,
+		<extendedcrafting:material:2>,
+		<extendedcrafting:material>
 	],
 	"two" : [
-		<ironchest:wood_iron_chest_upgrade>
+		<ironchest:wood_iron_chest_upgrade>,
+		<appliedenergistics2:certus_quartz_cutting_knife>,
+		<appliedenergistics2:nether_quartz_cutting_knife>
 	],
 	"delete" : [
 		<minecraft:potion>.withTag({Potion: "minecraft:water"}),
-		<ore:logWood>
+		<thermalexpansion:satchel>,
+		<thermalexpansion:satchel>.withTag({Accessible: 1 as byte}),
+		<thermalexpansion:satchel:1>.withTag({Accessible: 1 as byte}),
+		<thermalexpansion:satchel:2>,
+		<thermalexpansion:satchel:2>.withTag({Accessible: 1 as byte}),
+		<thermalexpansion:satchel:3>,
+		<thermalexpansion:satchel:3>.withTag({Accessible: 1 as byte}),
+		<thermalexpansion:satchel:4>,
+		<thermalexpansion:satchel:4>.withTag({Accessible: 1 as byte})
 	]
 };
 

@@ -1,4 +1,5 @@
 import crafttweaker.item.IIngredient;
+#priority -100
 
 val praise as string[IIngredient] = {
 
