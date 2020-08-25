@@ -1,0 +1,1 @@
+recipes.remove(<advancedmortars:mortar>);
