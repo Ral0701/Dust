@@ -1,16 +1,16 @@
 [PREINITIALIZATION][CLIENT][INFO] Thank you to the Patreon supporters below and others who make CraftTweaker possible!
-DreamThorn
-otakup0pe
-Peregrinus11
-Freebi
-AdaraChristine
-NickT
 realTIMematrix
-Pongo Sapiens
-quaternary
-Jonathan McManus
 IDroid
 Robijnvogel
+Peregrinus11
+otakup0pe
+quaternary
+Jonathan McManus
+NickT
+Freebi
+DreamThorn
+Pongo Sapiens
+AdaraChristine
 If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 
 [PREINITIALIZATION][CLIENT][INFO] Current loaders after merging: [[preinit]]
@@ -27,26 +27,6 @@ If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 [PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[100:crafttweaker]: Util\stageUtil.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: Contentweaker\blocks.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: Contentweaker\fluids.zs} as we are currently loading with a different loader
-[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Crafttweaker\mod\botania\凝聚板.zs} as we are currently loading with a different loader
-[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Crafttweaker\mod\botania\白雏菊.zs} as we are currently loading with a different loader
-[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Crafttweaker\mod\botania\符文祭坛.zs} as we are currently loading with a different loader
-[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Crafttweaker\mod\botania\精灵门.zs} as we are currently loading with a different loader
-[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Crafttweaker\mod\botania\花药台.zs} as we are currently loading with a different loader
-[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Crafttweaker\mod\botania\魔力池.zs} as we are currently loading with a different loader
-[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Crafttweaker\mod\extendedCrafting\5x5.zs} as we are currently loading with a different loader
-[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Crafttweaker\mod\extendedCrafting\9x9.zs} as we are currently loading with a different loader
-[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Crafttweaker\mod\immersiveEngineering\合金窑配方.zs} as we are currently loading with a different loader
-[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Crafttweaker\mod\modularmachinery\魔能压力机.zs} as we are currently loading with a different loader
-[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Crafttweaker\mod\naturesAura\供盘.zs} as we are currently loading with a different loader
-[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Crafttweaker\mod\naturesAura\木墩仪式.zs} as we are currently loading with a different loader
-[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Crafttweaker\mod\naturesAura\自然祭坛.zs} as we are currently loading with a different loader
-[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Crafttweaker\mod\roots\匕首.zs} as we are currently loading with a different loader
-[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Crafttweaker\mod\roots\柴堆.zs} as we are currently loading with a different loader
-[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Crafttweaker\mod\roots\研钵.zs} as we are currently loading with a different loader
-[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Crafttweaker\mod\roots\精灵工匠台.zs} as we are currently loading with a different loader
-[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Crafttweaker\mod\scanner\scanner.zs} as we are currently loading with a different loader
-[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Crafttweaker\mod\survivalist\add.zs} as we are currently loading with a different loader
-[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Crafttweaker\mod\survivalist\remove.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Crafttweaker\normal\mods\Advanced Mortars\Mortars.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Crafttweaker\normal\mods\pyrotech\Chopping Block.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Crafttweaker\normal\mods\pyrotech\Granite Anvil.zs} as we are currently loading with a different loader
@@ -77,26 +57,6 @@ If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 [PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[100:crafttweaker]: Util\stageUtil.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Loading Script: {[0:contenttweaker]: Contentweaker\blocks.zs}
 [PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Loading Script: {[0:contenttweaker]: Contentweaker\fluids.zs}
-[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Crafttweaker\mod\botania\凝聚板.zs} as we are currently loading with a different loader
-[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Crafttweaker\mod\botania\白雏菊.zs} as we are currently loading with a different loader
-[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Crafttweaker\mod\botania\符文祭坛.zs} as we are currently loading with a different loader
-[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Crafttweaker\mod\botania\精灵门.zs} as we are currently loading with a different loader
-[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Crafttweaker\mod\botania\花药台.zs} as we are currently loading with a different loader
-[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Crafttweaker\mod\botania\魔力池.zs} as we are currently loading with a different loader
-[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Crafttweaker\mod\extendedCrafting\5x5.zs} as we are currently loading with a different loader
-[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Crafttweaker\mod\extendedCrafting\9x9.zs} as we are currently loading with a different loader
-[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Crafttweaker\mod\immersiveEngineering\合金窑配方.zs} as we are currently loading with a different loader
-[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Crafttweaker\mod\modularmachinery\魔能压力机.zs} as we are currently loading with a different loader
-[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Crafttweaker\mod\naturesAura\供盘.zs} as we are currently loading with a different loader
-[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Crafttweaker\mod\naturesAura\木墩仪式.zs} as we are currently loading with a different loader
-[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Crafttweaker\mod\naturesAura\自然祭坛.zs} as we are currently loading with a different loader
-[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Crafttweaker\mod\roots\匕首.zs} as we are currently loading with a different loader
-[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Crafttweaker\mod\roots\柴堆.zs} as we are currently loading with a different loader
-[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Crafttweaker\mod\roots\研钵.zs} as we are currently loading with a different loader
-[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Crafttweaker\mod\roots\精灵工匠台.zs} as we are currently loading with a different loader
-[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Crafttweaker\mod\scanner\scanner.zs} as we are currently loading with a different loader
-[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Crafttweaker\mod\survivalist\add.zs} as we are currently loading with a different loader
-[PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Crafttweaker\mod\survivalist\remove.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Crafttweaker\normal\mods\Advanced Mortars\Mortars.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Crafttweaker\normal\mods\pyrotech\Chopping Block.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Crafttweaker\normal\mods\pyrotech\Granite Anvil.zs} as we are currently loading with a different loader
@@ -110,7 +70,7 @@ If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 [PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: InWorldCraft\Fluid.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: recipes.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][CLIENT][INFO] [contenttweaker | SIDE_CLIENT]: Skipping file {[-100:crafttweaker]: Crafttweaker\vanilla\tooltip.zs} as we are currently loading with a different loader
-[PREINITIALIZATION][CLIENT][INFO] Completed script loading in: 304ms
+[PREINITIALIZATION][CLIENT][INFO] Completed script loading in: 306ms
 [INITIALIZATION][CLIENT][INFO] CraftTweaker: Building registry
 [INITIALIZATION][CLIENT][INFO] CraftTweaker: Successfully built item registry
 [INITIALIZATION][CLIENT][INFO] Current loaders after merging: [[preinit], [contenttweaker], [recipeevent | crafttweaker]]
@@ -140,7 +100,7 @@ java.lang.NullPointerException
 	at crafttweaker.runtime.CrTTweaker.loadScript(CrTTweaker.java:225)
 	at crafttweaker.runtime.CrTTweaker.loadScript(CrTTweaker.java:105)
 	at crafttweaker.mc1120.events.CommonEventHandler.registerRecipes(CommonEventHandler.java:73)
-	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_247_CommonEventHandler_registerRecipes_Register.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_286_CommonEventHandler_registerRecipes_Register.invoke(.dynamic)
 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
 	at net.minecraftforge.fml.common.eventhandler.EventBus$1.invoke(EventBus.java:144)
 	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
@@ -181,7 +141,7 @@ java.lang.NullPointerException
 	at crafttweaker.runtime.CrTTweaker.loadScript(CrTTweaker.java:225)
 	at crafttweaker.runtime.CrTTweaker.loadScript(CrTTweaker.java:105)
 	at crafttweaker.mc1120.events.CommonEventHandler.registerRecipes(CommonEventHandler.java:73)
-	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_247_CommonEventHandler_registerRecipes_Register.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_286_CommonEventHandler_registerRecipes_Register.invoke(.dynamic)
 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
 	at net.minecraftforge.fml.common.eventhandler.EventBus$1.invoke(EventBus.java:144)
 	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
@@ -258,7 +218,7 @@ java.lang.NullPointerException
 	at crafttweaker.runtime.CrTTweaker.loadScript(CrTTweaker.java:225)
 	at crafttweaker.runtime.CrTTweaker.loadScript(CrTTweaker.java:105)
 	at crafttweaker.mc1120.events.CommonEventHandler.registerRecipes(CommonEventHandler.java:73)
-	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_247_CommonEventHandler_registerRecipes_Register.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_286_CommonEventHandler_registerRecipes_Register.invoke(.dynamic)
 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
 	at net.minecraftforge.fml.common.eventhandler.EventBus$1.invoke(EventBus.java:144)
 	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
@@ -893,7 +853,7 @@ Exception Details:
 	at crafttweaker.runtime.CrTTweaker.loadScript(CrTTweaker.java:225)
 	at crafttweaker.runtime.CrTTweaker.loadScript(CrTTweaker.java:105)
 	at crafttweaker.mc1120.events.CommonEventHandler.registerRecipes(CommonEventHandler.java:73)
-	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_247_CommonEventHandler_registerRecipes_Register.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_286_CommonEventHandler_registerRecipes_Register.invoke(.dynamic)
 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
 	at net.minecraftforge.fml.common.eventhandler.EventBus$1.invoke(EventBus.java:144)
 	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
@@ -1528,7 +1488,7 @@ Exception Details:
 	at crafttweaker.runtime.CrTTweaker.loadScript(CrTTweaker.java:225)
 	at crafttweaker.runtime.CrTTweaker.loadScript(CrTTweaker.java:105)
 	at crafttweaker.mc1120.events.CommonEventHandler.registerRecipes(CommonEventHandler.java:73)
-	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_247_CommonEventHandler_registerRecipes_Register.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_286_CommonEventHandler_registerRecipes_Register.invoke(.dynamic)
 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
 	at net.minecraftforge.fml.common.eventhandler.EventBus$1.invoke(EventBus.java:144)
 	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
@@ -1555,7 +1515,7 @@ java.lang.NullPointerException
 	at crafttweaker.runtime.CrTTweaker.loadScript(CrTTweaker.java:225)
 	at crafttweaker.runtime.CrTTweaker.loadScript(CrTTweaker.java:105)
 	at crafttweaker.mc1120.events.CommonEventHandler.registerRecipes(CommonEventHandler.java:73)
-	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_247_CommonEventHandler_registerRecipes_Register.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_286_CommonEventHandler_registerRecipes_Register.invoke(.dynamic)
 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
 	at net.minecraftforge.fml.common.eventhandler.EventBus$1.invoke(EventBus.java:144)
 	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
@@ -1617,7 +1577,7 @@ java.lang.NullPointerException
 	at crafttweaker.runtime.CrTTweaker.loadScript(CrTTweaker.java:225)
 	at crafttweaker.runtime.CrTTweaker.loadScript(CrTTweaker.java:105)
 	at crafttweaker.mc1120.events.CommonEventHandler.registerRecipes(CommonEventHandler.java:73)
-	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_247_CommonEventHandler_registerRecipes_Register.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_286_CommonEventHandler_registerRecipes_Register.invoke(.dynamic)
 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
 	at net.minecraftforge.fml.common.eventhandler.EventBus$1.invoke(EventBus.java:144)
 	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
@@ -1646,211 +1606,6 @@ java.lang.NullPointerException
 [INITIALIZATION][CLIENT][ERROR] Util\stageUtil.zs:19 > could not find Recipes
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: Contentweaker\blocks.zs} as we are currently loading with a different loader
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Skipping file {[0:contenttweaker]: Contentweaker\fluids.zs} as we are currently loading with a different loader
-[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Crafttweaker\mod\botania\凝聚板.zs}
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\botania\凝聚板.zs:2 > No such member: botaniatweaks
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\botania\凝聚板.zs:2 > Not a valid type
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\botania\凝聚板.zs:3 > No such member: botaniatweaks
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\botania\凝聚板.zs:3 > Not a valid type
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\botania\凝聚板.zs:9: Could not resolve <botania : manaresource : 4>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\botania\凝聚板.zs:10: Could not resolve <botania : manaresource>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\botania\凝聚板.zs:10: Could not resolve <botania : manaresource : 1>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\botania\凝聚板.zs:10: Could not resolve <botania : manaresource : 2>
-[INITIALIZATION][CLIENT][ERROR] [crafttweaker | SIDE_CLIENT]: Error parsing Crafttweaker\mod\botania\凝聚板.zs:11 -- Invalid expression, last token: )
-[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Crafttweaker\mod\botania\白雏菊.zs}
-[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Crafttweaker\mod\botania\符文祭坛.zs}
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\botania\符文祭坛.zs:5: Could not resolve <botania : pool>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\botania\符文祭坛.zs:6: Could not resolve <botania : distributor>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\botania\符文祭坛.zs:6: Could not resolve <botania : manatablet>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\botania\符文祭坛.zs:6: Could not resolve <botania : spark>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\botania\符文祭坛.zs:6: Could not resolve <botania : spark>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\botania\符文祭坛.zs:6: Could not resolve <botania : lens : 4>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\botania\符文祭坛.zs:9: Could not resolve <botania : rune : 8>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\botania\符文祭坛.zs:10: Could not resolve <botania : manaresource : 1>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\botania\符文祭坛.zs:10: Could not resolve <botania : manaresource : 1>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\botania\符文祭坛.zs:10: Could not resolve <botania : manaresource : 1>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\botania\符文祭坛.zs:11: Could not resolve <botania : manaresource : 1>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\botania\符文祭坛.zs:11: Could not resolve <botania : manaresource : 1>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\botania\符文祭坛.zs:11: Could not resolve <botania : manaresource : 1>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\botania\符文祭坛.zs:12: Could not resolve <botania : manaresource : 1>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\botania\符文祭坛.zs:12: Could not resolve <botania : manaresource : 1>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\botania\符文祭坛.zs:12: Could not resolve <botania : manaresource : 1>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\botania\符文祭坛.zs:15: Could not resolve <botania : rune>
-[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Crafttweaker\mod\botania\精灵门.zs}
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\botania\精灵门.zs:5: Could not resolve <contenttweaker : root_seed>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\botania\精灵门.zs:6: Could not resolve <contenttweaker : seed_life>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\botania\精灵门.zs:6: Could not resolve <botania : pixiering>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\botania\精灵门.zs:10: Could not resolve <botania : sparkupgrade>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\botania\精灵门.zs:10: Could not resolve <botania : spark>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\botania\精灵门.zs:10: Could not resolve <botania : rune>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\botania\精灵门.zs:11: Could not resolve <botania : sparkupgrade : 1>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\botania\精灵门.zs:11: Could not resolve <botania : spark>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\botania\精灵门.zs:11: Could not resolve <botania : rune : 1>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\botania\精灵门.zs:12: Could not resolve <botania : sparkupgrade : 2>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\botania\精灵门.zs:12: Could not resolve <botania : spark>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\botania\精灵门.zs:12: Could not resolve <botania : rune : 2>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\botania\精灵门.zs:13: Could not resolve <botania : sparkupgrade : 3>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\botania\精灵门.zs:13: Could not resolve <botania : spark>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\botania\精灵门.zs:13: Could not resolve <botania : rune : 3>
-[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Crafttweaker\mod\botania\花药台.zs}
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\botania\花药台.zs:5: Could not resolve <contenttweaker : original_petals>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\botania\花药台.zs:6: Could not resolve <botania : petal>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\botania\花药台.zs:6: Could not resolve <botania : petal : 1>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\botania\花药台.zs:6: Could not resolve <botania : petal : 2>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\botania\花药台.zs:6: Could not resolve <botania : petal : 3>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\botania\花药台.zs:7: Could not resolve <botania : petal : 4>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\botania\花药台.zs:7: Could not resolve <botania : petal : 5>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\botania\花药台.zs:7: Could not resolve <botania : petal : 6>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\botania\花药台.zs:7: Could not resolve <botania : petal : 7>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\botania\花药台.zs:8: Could not resolve <botania : petal : 8>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\botania\花药台.zs:8: Could not resolve <botania : petal : 9>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\botania\花药台.zs:8: Could not resolve <botania : petal : 10>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\botania\花药台.zs:8: Could not resolve <botania : petal : 11>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\botania\花药台.zs:9: Could not resolve <botania : petal : 12>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\botania\花药台.zs:9: Could not resolve <botania : petal : 13>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\botania\花药台.zs:9: Could not resolve <botania : petal : 14>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\botania\花药台.zs:9: Could not resolve <botania : petal : 15>
-[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Crafttweaker\mod\botania\魔力池.zs}
-[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Crafttweaker\mod\extendedCrafting\5x5.zs}
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\extendedCrafting\5x5.zs:6: Could not resolve <botania : alfheimportal>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\extendedCrafting\5x5.zs:7: Could not resolve <botania : livingwood>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\extendedCrafting\5x5.zs:7: Could not resolve <contenttweaker : magic_source_alloy>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\extendedCrafting\5x5.zs:7: Could not resolve <botania : livingwood : 5>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\extendedCrafting\5x5.zs:7: Could not resolve <contenttweaker : magic_source_alloy>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\extendedCrafting\5x5.zs:7: Could not resolve <botania : livingwood>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\extendedCrafting\5x5.zs:8: Could not resolve <contenttweaker : magic_source_alloy>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\extendedCrafting\5x5.zs:8: Could not resolve <silentgems : craftingmaterial : 1>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\extendedCrafting\5x5.zs:8: Could not resolve <botania : manaresource : 4>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\extendedCrafting\5x5.zs:8: Could not resolve <silentgems : craftingmaterial : 1>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\extendedCrafting\5x5.zs:8: Could not resolve <contenttweaker : magic_source_alloy>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\extendedCrafting\5x5.zs:9: Could not resolve <botania : livingwood : 5>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\extendedCrafting\5x5.zs:9: Could not resolve <botania : manaresource : 4>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\extendedCrafting\5x5.zs:9: Could not resolve <silentgems : miscblock : 1>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\extendedCrafting\5x5.zs:9: Could not resolve <botania : manaresource : 4>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\extendedCrafting\5x5.zs:9: Could not resolve <botania : livingwood : 5>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\extendedCrafting\5x5.zs:10: Could not resolve <contenttweaker : magic_source_alloy>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\extendedCrafting\5x5.zs:10: Could not resolve <silentgems : craftingmaterial : 1>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\extendedCrafting\5x5.zs:10: Could not resolve <botania : manaresource : 4>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\extendedCrafting\5x5.zs:10: Could not resolve <silentgems : craftingmaterial : 1>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\extendedCrafting\5x5.zs:10: Could not resolve <contenttweaker : magic_source_alloy>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\extendedCrafting\5x5.zs:11: Could not resolve <botania : livingwood>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\extendedCrafting\5x5.zs:11: Could not resolve <contenttweaker : magic_source_alloy>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\extendedCrafting\5x5.zs:11: Could not resolve <botania : livingwood : 4>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\extendedCrafting\5x5.zs:11: Could not resolve <contenttweaker : magic_source_alloy>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\extendedCrafting\5x5.zs:11: Could not resolve <botania : livingwood>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\extendedCrafting\5x5.zs:15: Could not resolve <naturesaura : offering_table>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\extendedCrafting\5x5.zs:16: Could not resolve <botania : elfglass>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\extendedCrafting\5x5.zs:16: Could not resolve <contenttweaker : magic_source_alloy>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\extendedCrafting\5x5.zs:16: Could not resolve <contenttweaker : magic_source_alloy>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\extendedCrafting\5x5.zs:16: Could not resolve <contenttweaker : magic_source_alloy>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\extendedCrafting\5x5.zs:16: Could not resolve <botania : elfglass>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\extendedCrafting\5x5.zs:17: Could not resolve <botania : elfglass>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\extendedCrafting\5x5.zs:17: Could not resolve <botania : elfglass>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\extendedCrafting\5x5.zs:17: Could not resolve <silentgems : miscblock : 1>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\extendedCrafting\5x5.zs:17: Could not resolve <botania : elfglass>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\extendedCrafting\5x5.zs:17: Could not resolve <botania : elfglass>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\extendedCrafting\5x5.zs:18: Could not resolve <botania : elfglass>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\extendedCrafting\5x5.zs:18: Could not resolve <silentgems : craftingmaterial : 1>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\extendedCrafting\5x5.zs:18: Could not resolve <botania : elfglass>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\extendedCrafting\5x5.zs:19: Could not resolve <botania : elfglass>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\extendedCrafting\5x5.zs:19: Could not resolve <botania : elfglass>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\extendedCrafting\5x5.zs:19: Could not resolve <botania : elfglass>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\extendedCrafting\5x5.zs:20: Could not resolve <botania : storage : 1>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\extendedCrafting\5x5.zs:20: Could not resolve <botania : storage : 1>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\extendedCrafting\5x5.zs:20: Could not resolve <botania : storage : 1>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\extendedCrafting\5x5.zs:20: Could not resolve <botania : storage : 1>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\extendedCrafting\5x5.zs:20: Could not resolve <botania : storage : 1>
-[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Crafttweaker\mod\extendedCrafting\9x9.zs}
-[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Crafttweaker\mod\immersiveEngineering\合金窑配方.zs}
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\immersiveEngineering\合金窑配方.zs:5: Could not resolve <contenttweaker : magic_source_alloy>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\immersiveEngineering\合金窑配方.zs:6: Could not resolve <immersiveengineering : metal : 8>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\immersiveEngineering\合金窑配方.zs:7: Could not resolve <contenttweaker : filled_terra_bar>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\immersiveEngineering\合金窑配方.zs:14: Could not resolve <contenttweaker : filled_terra_bar>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\immersiveEngineering\合金窑配方.zs:15: Could not resolve <contenttweaker : magic_source_alloy>
-[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Crafttweaker\mod\modularmachinery\魔能压力机.zs}
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\modularmachinery\魔能压力机.zs:24: Could not resolve <contenttweaker : smelting_core>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\modularmachinery\魔能压力机.zs:25: Could not resolve <botania : blazeblock>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\modularmachinery\魔能压力机.zs:31: Could not resolve <contenttweaker : drops_water>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\modularmachinery\魔能压力机.zs:32: Could not resolve <contenttweaker : moist_dust>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\modularmachinery\魔能压力机.zs:38: Could not resolve <contenttweaker : polymer_water>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\modularmachinery\魔能压力机.zs:39: Could not resolve <contenttweaker : drops_water>
-[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Crafttweaker\mod\naturesAura\供盘.zs}
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\naturesAura\供盘.zs:5: Could not resolve <contenttweaker : moist_dust>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\naturesAura\供盘.zs:6: Could not resolve <naturesaura : calling_spirit>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\naturesAura\供盘.zs:7: Could not resolve <contenttweaker : drops_water>
-[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Crafttweaker\mod\naturesAura\木墩仪式.zs}
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\naturesAura\木墩仪式.zs:3: Could not resolve <naturesaura : crushing_catalyst>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\naturesAura\木墩仪式.zs:4: Could not resolve <naturesaura : ancient_sapling>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\naturesAura\木墩仪式.zs:5: Could not resolve <naturesaura : conversion_catalyst>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\naturesAura\木墩仪式.zs:6: Could not resolve <naturesaura : eye_improved>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\naturesAura\木墩仪式.zs:7: Could not resolve <naturesaura : eye>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\naturesAura\木墩仪式.zs:8: Could not resolve <naturesaura : nature_altar>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\naturesAura\木墩仪式.zs:18: Could not resolve <naturesaura : token_joy>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\naturesAura\木墩仪式.zs:18: Could not resolve <contenttweaker : smelting_core>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\naturesAura\木墩仪式.zs:19: Could not resolve <contenttweaker : smelting_core>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\naturesAura\木墩仪式.zs:19: Could not resolve <naturesaura : token_fear>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\naturesAura\木墩仪式.zs:20: Could not resolve <contenttweaker : smelting_core>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\naturesAura\木墩仪式.zs:20: Could not resolve <naturesaura : token_anger>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\naturesAura\木墩仪式.zs:21: Could not resolve <naturesaura : token_sorrow>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\naturesAura\木墩仪式.zs:21: Could not resolve <contenttweaker : smelting_core>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\naturesAura\木墩仪式.zs:26: Could not resolve <naturesaura : ancient_sapling>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\naturesAura\木墩仪式.zs:27: Could not resolve <naturesaura : conversion_catalyst>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\naturesAura\木墩仪式.zs:30: Could not resolve <naturesaura : gold_fiber>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\naturesAura\木墩仪式.zs:30: Could not resolve <naturesaura : end_flower>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\naturesAura\木墩仪式.zs:31: Could not resolve <naturesaura : gold_brick>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\naturesAura\木墩仪式.zs:31: Could not resolve <naturesaura : gold_brick>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\naturesAura\木墩仪式.zs:32: Could not resolve <naturesaura : gold_brick>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\naturesAura\木墩仪式.zs:32: Could not resolve <naturesaura : gold_brick>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\naturesAura\木墩仪式.zs:33: Could not resolve <naturesaura : token_joy>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\naturesAura\木墩仪式.zs:38: Could not resolve <naturesaura : ancient_sapling>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\naturesAura\木墩仪式.zs:39: Could not resolve <naturesaura : crushing_catalyst>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\naturesAura\木墩仪式.zs:42: Could not resolve <naturesaura : gold_fiber>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\naturesAura\木墩仪式.zs:42: Could not resolve <botania : lens : 13>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\naturesAura\木墩仪式.zs:43: Could not resolve <naturesaura : gold_brick>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\naturesAura\木墩仪式.zs:43: Could not resolve <naturesaura : gold_brick>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\naturesAura\木墩仪式.zs:44: Could not resolve <naturesaura : gold_brick>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\naturesAura\木墩仪式.zs:44: Could not resolve <naturesaura : gold_brick>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\naturesAura\木墩仪式.zs:45: Could not resolve <contenttweaker : flint_work_core>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\naturesAura\木墩仪式.zs:45: Could not resolve <botania : terrapick>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\naturesAura\木墩仪式.zs:51: Could not resolve <naturesaura : ancient_sapling>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\naturesAura\木墩仪式.zs:54: Could not resolve <naturesaura : aura_cache>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\naturesAura\木墩仪式.zs:54: Could not resolve <contenttweaker : seed_life>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\naturesAura\木墩仪式.zs:55: Could not resolve <naturesaura : gold_brick>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\naturesAura\木墩仪式.zs:55: Could not resolve <roots : spell_dust>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\naturesAura\木墩仪式.zs:56: Could not resolve <contenttweaker : filled_terra_bar>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\naturesAura\木墩仪式.zs:56: Could not resolve <botania : lens : 2>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\naturesAura\木墩仪式.zs:57: Could not resolve <contenttweaker : seed_life>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\naturesAura\木墩仪式.zs:57: Could not resolve <contenttweaker : seed_life>
-[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Crafttweaker\mod\naturesAura\自然祭坛.zs}
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\naturesAura\自然祭坛.zs:11: Could not resolve <roots : elemental_soil>
-[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Crafttweaker\mod\roots\匕首.zs}
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\roots\匕首.zs:2 > No such member: roots
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\roots\匕首.zs:2 > Not a valid type
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\roots\匕首.zs:5: Could not resolve <roots : wildroot>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\roots\匕首.zs:6: Could not resolve <roots : wildroot>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\roots\匕首.zs:7: Could not resolve <roots : wildroot>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\roots\匕首.zs:8: Could not resolve <roots : wildroot>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\roots\匕首.zs:9: Could not resolve <roots : wildroot>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\roots\匕首.zs:10: Could not resolve <roots : wildroot>
-[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Crafttweaker\mod\roots\柴堆.zs}
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\roots\柴堆.zs:2 > No such member: roots
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\roots\柴堆.zs:2 > Not a valid type
-[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Crafttweaker\mod\roots\研钵.zs}
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\roots\研钵.zs:2 > No such member: roots
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\roots\研钵.zs:2 > Not a valid type
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\roots\研钵.zs:6: Could not resolve <naturesaura : gold_powder>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\roots\研钵.zs:7: Could not resolve <naturesaura : gold_leaf>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\roots\研钵.zs:13: Could not resolve <mysticalworld : silk_thread>
-[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Crafttweaker\mod\roots\精灵工匠台.zs}
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\roots\精灵工匠台.zs:2 > No such member: roots
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\roots\精灵工匠台.zs:2 > Not a valid type
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\roots\精灵工匠台.zs:5: Could not resolve <roots : elemental_soil>
-[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Crafttweaker\mod\scanner\scanner.zs}
-[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Crafttweaker\mod\survivalist\add.zs}
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\survivalist\add.zs:3: Could not resolve <improvedbackpacks : bound_leather>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\survivalist\add.zs:3: Could not resolve <improvedbackpacks : tanned_leather>
-[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Crafttweaker\mod\survivalist\remove.zs}
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\survivalist\remove.zs:4: Could not resolve <survivalist : jerky>
-[INITIALIZATION][CLIENT][ERROR] Crafttweaker\mod\survivalist\remove.zs:5: Could not resolve <survivalist : tanned_leather>
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Crafttweaker\normal\mods\Advanced Mortars\Mortars.zs}
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Crafttweaker\normal\mods\pyrotech\Chopping Block.zs}
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Crafttweaker\normal\mods\pyrotech\Granite Anvil.zs}
@@ -1859,14 +1614,90 @@ java.lang.NullPointerException
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Crafttweaker\normal\staging\Stageone\remove.zs}
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Crafttweaker\vanilla\furmace\add.zs}
 [INITIALIZATION][CLIENT][ERROR] Crafttweaker\vanilla\furmace\add.zs:7: Could not resolve <contenttweaker : smelting_core>
+[INITIALIZATION][CLIENT][INFO] Setting fuel for null
+[INITIALIZATION][CLIENT][ERROR] [crafttweaker]: Error executing {[0:crafttweaker]: Crafttweaker\vanilla\furmace\add.zs}: null
+java.lang.NullPointerException
+	at crafttweaker.mc1120.actions.ActionSetFuel.apply(ActionSetFuel.java:17)
+	at crafttweaker.runtime.CrTTweaker.apply(CrTTweaker.java:61)
+	at crafttweaker.CraftTweakerAPI.apply(CraftTweakerAPI.java:149)
+	at crafttweaker.mc1120.furnace.MCFurnaceManager.setFuel(MCFurnaceManager.java:64)
+	at Crafttweaker\vanilla\furmace\Add.__script__(Crafttweaker\vanilla\furmace\add.zs:7)
+	at __ZenMain__.run(Crafttweaker\vanilla\furmace\Add)
+	at crafttweaker.runtime.CrTTweaker.loadScript(CrTTweaker.java:225)
+	at crafttweaker.runtime.CrTTweaker.loadScript(CrTTweaker.java:105)
+	at crafttweaker.mc1120.events.CommonEventHandler.registerRecipes(CommonEventHandler.java:73)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_286_CommonEventHandler_registerRecipes_Register.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus$1.invoke(EventBus.java:144)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.registries.GameData.fireRegistryEvents(GameData.java:857)
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:636)
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747)
+	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:336)
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:535)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Crafttweaker\vanilla\furmace\remove.zs}
 [INITIALIZATION][CLIENT][ERROR] Crafttweaker\vanilla\furmace\remove.zs:2: Could not resolve <improvedbackpacks : tanned_leather>
 [INITIALIZATION][CLIENT][ERROR] Crafttweaker\vanilla\furmace\remove.zs:6: Could not resolve <toughasnails : purified_water_bottle>
+[INITIALIZATION][CLIENT][ERROR] [crafttweaker]: Error executing {[0:crafttweaker]: Crafttweaker\vanilla\furmace\remove.zs}: output cannot be null
+java.lang.IllegalArgumentException: output cannot be null
+	at crafttweaker.mc1120.furnace.MCFurnaceManager.remove(MCFurnaceManager.java:40)
+	at Crafttweaker\vanilla\furmace\Remove.__script__(Crafttweaker\vanilla\furmace\remove.zs:2)
+	at __ZenMain__.run(Crafttweaker\vanilla\furmace\Remove)
+	at crafttweaker.runtime.CrTTweaker.loadScript(CrTTweaker.java:225)
+	at crafttweaker.runtime.CrTTweaker.loadScript(CrTTweaker.java:105)
+	at crafttweaker.mc1120.events.CommonEventHandler.registerRecipes(CommonEventHandler.java:73)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_286_CommonEventHandler_registerRecipes_Register.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus$1.invoke(EventBus.java:144)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.registries.GameData.fireRegistryEvents(GameData.java:857)
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:636)
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747)
+	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:336)
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:535)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: InWorldCraft\ExplosionCrafting.zs}
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: InWorldCraft\FireCrafting.zs}
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: InWorldCraft\Fluid.zs}
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: recipes.zs}
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[-100:crafttweaker]: Crafttweaker\vanilla\tooltip.zs}
-[INITIALIZATION][CLIENT][INFO] Completed script loading in: 152ms
+[INITIALIZATION][CLIENT][INFO] Item <item:contenttweaker:earth_magic_origin:0> has not been found, trying to use a ghost representative. This message will only be printed once, all subsequent missing items will be handled the same way.
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for com.teamacronymcoders.contenttweaker.modules.vanilla.resources.GhostItemStack@14e6853f: "恭喜，原始之人，阶段一已经被你征服在手下，右键研究来解锁阶段二"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for com.teamacronymcoders.contenttweaker.modules.vanilla.resources.GhostItemStack@1826919b: "右键以解锁第一阶段"
+[INITIALIZATION][CLIENT][INFO] Completed script loading in: 188ms
 [POSTINITIALIZATION][CLIENT][INFO] Removing recipes for various outputs
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for 橡木木板 with name ct_shapeless-1653965294
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for 木棍 with name ct_shapeless-186395410
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 木研钵 with name ct_shaped605609308
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for 沙粉 with name ct_shapeless-1903093884
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 培养皿 with name ct_shaped-523156182
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for 枯草培养皿 with name ct_shapeless-800705448
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for 沙漠草培养皿 with name ct_shapeless1408877869
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for 枯萎百合培养皿 with name ct_shapeless900337104
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 玻璃 with name ct_shaped-1860597472
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for 玻璃板 with name ct_shaped-1781359602
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <minecraft:gold_ore>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <minecraft:iron_ore>
+[POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for chopping block
+[POSTINITIALIZATION][CLIENT][INFO] Adding chopping recipe for 1xitem.pyrotech.material@20, inherited=false
+[POSTINITIALIZATION][CLIENT][INFO] Adding chopping recipe for 1xtile.woodSlab@0, inherited=false
+[POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for anvil
+[POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for anvil
+[AVAILABLE][CLIENT][INFO] Altering mods.advancedmortars.Mortar Recipe(s) for <pyrotech:material:11>
+[AVAILABLE][CLIENT][INFO] Altering mods.advancedmortars.Mortar Recipe(s) for <contenttweaker:sand_dust>
 [AVAILABLE][CLIENT][INFO] Fixed the RecipeBook
