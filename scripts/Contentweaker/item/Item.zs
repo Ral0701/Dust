@@ -27,5 +27,7 @@ for item in items{
 val JYLW as Item = VanillaFactory.createItem("simple_filter");
 JYLW.maxDamage = 8;
 JYLW.rarity = "rare";
+JYLM.toolClass = "pickaxe";
+JYLW.toolLevel = 0;
 JYLW.creativeTab = <creativetab:tools>;
 JYLW.register();

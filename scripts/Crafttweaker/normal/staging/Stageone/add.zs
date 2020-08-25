@@ -15,7 +15,7 @@ recipes.addShaped(<advancedmortars:mortar>, [
 ]);
 //沙粉
 recipes.addShapeless(<contenttweaker:sand_powder>,  [
-    <contenttweaker:simple_filter>.anyDamage().transformDamage(-1), <contenttweaker:sand_dust>]
+    <contenttweaker:simple_filter:*>.anyDamage().transformDamage(-1), <contenttweaker:sand_dust>]
 );
 //培养皿
 recipes.addShaped(<contenttweaker:petri_dish>, [
