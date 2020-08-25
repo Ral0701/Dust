@@ -14,8 +14,8 @@ recipes.addShaped(<advancedmortars:mortar>, [
     [null, <minecraft:planks>, null]
 ]);
 //沙粉
-recipes.addShapeless(<contenttweaker:sand_powder>,  [
-    <contenttweaker:simple_filter>.anyDamage().transformDamage(), <contenttweaker:sand_dust>]
+recipes.addShapeless(<contenttweaker:sand_powder>, [
+    <contenttweaker:simple_filter>,<contenttweaker:sand_dust>]
 );
 //培养皿
 recipes.addShaped(<contenttweaker:petri_dish>, [
